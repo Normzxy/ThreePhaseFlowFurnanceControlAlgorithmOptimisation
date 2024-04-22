@@ -1,0 +1,83 @@
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\thispagestyle {empty}
+\contentsline {chapter}{\numberline {1}Wstęp}{1}{chapter.1}%
+\contentsline {subsection}{\numberline {1.0.1}Pojęcie regulacji w przemyśle}{1}{subsection.1.0.1}%
+\contentsline {subsubsection}{Struktura układu regulacji}{2}{section*.8}%
+\contentsline {subsubsection}{Wybór rodzaju regulatora}{3}{section*.10}%
+\contentsline {subsubsection}{Matematyczna postać regulatora PID \blx@tocontentsinit {0}\cite {knospe2006pid}}{4}{section*.12}%
+\contentsline {subsubsection}{Znaczenie odpowiedniej regulacji układu}{5}{section*.13}%
+\contentsline {subsection}{\numberline {1.0.2}Zdefiniowanie celu pracy}{5}{subsection.1.0.2}%
+\contentsline {chapter}{\numberline {2}Charakterystyka elementów wykonawczych}{7}{chapter.2}%
+\contentsline {subsubsection}{Podział ze względu na wykorzystane zjawiska fizyczne}{7}{section*.14}%
+\contentsline {subsubsection}{Podział ze względu na rodzaj sygnału}{8}{section*.16}%
+\contentsline {chapter}{\numberline {3}Założenia projektowe}{9}{chapter.3}%
+\contentsline {subsection}{\numberline {3.0.1}Metoda modulacji sygnału}{9}{subsection.3.0.1}%
+\contentsline {subsection}{\numberline {3.0.2}Zdefiniowanie celów algorytmu}{10}{subsection.3.0.2}%
+\contentsline {subsection}{\numberline {3.0.3}Optymalizacja w odniesieniu do układu regulacji}{11}{subsection.3.0.3}%
+\contentsline {subsection}{\numberline {3.0.4}Poglądowe schematy instalacji}{12}{subsection.3.0.4}%
+\contentsline {chapter}{\numberline {4}Wymagania i narzędzia}{13}{chapter.4}%
+\contentsline {subsection}{\numberline {4.0.1}Wykorzystane narzędzia}{13}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.0.2}Struktura programu}{13}{subsection.4.0.2}%
+\contentsline {subsubsection}{Funkcja \textit {ExecutePWM}}{14}{section*.22}%
+\contentsline {subsubsection}{Wyznaczanie współczynnika \textit {heaterFactor}}{14}{section*.24}%
+\contentsline {subsubsection}{Przydzielenie obciążeń}{15}{section*.25}%
+\contentsline {subsubsection}{Zastosowanie funkcji ControlPWM}{15}{section*.26}%
+\contentsline {subsubsection}{Wykorzystanie timera \textit {TON} w bloku \textit {ControlPWM}}{17}{section*.29}%
+\contentsline {subsection}{\numberline {4.0.3}Symulacje sterowania układem}{18}{subsection.4.0.3}%
+\contentsline {subsection}{\numberline {4.0.4}Sterowanie jednofazowe}{18}{subsection.4.0.4}%
+\contentsline {subsubsection}{Komentarz}{20}{section*.34}%
+\contentsline {subsection}{\numberline {4.0.5}Realizacja nierównomiernego obciążenia grzałek}{20}{subsection.4.0.5}%
+\contentsline {subsubsection}{Komentarz}{22}{section*.38}%
+\contentsline {subsection}{\numberline {4.0.6}Modyfikacja bloku \textit {ExecutePWM}}{22}{subsection.4.0.6}%
+\contentsline {subsection}{\numberline {4.0.7}Cykliczne przełącznie grzałek}{24}{subsection.4.0.7}%
+\contentsline {subsection}{\numberline {4.0.8}Schemat blokowy}{26}{subsection.4.0.8}%
+\contentsline {chapter}{\numberline {5}Konfiguracja instalacji}{27}{chapter.5}%
+\contentsline {subsection}{\numberline {5.0.1}Elementy systemu sterowania}{27}{subsection.5.0.1}%
+\contentsline {subsubsection}{Sterownik PLC SIMATIC 1516-3 PN/DP}{27}{section*.45}%
+\contentsline {subsubsection}{Moduł rozszerzeń wyjść cyfrowych SIMATIC DQ 32x24VDC/0,5A ST}{27}{section*.47}%
+\contentsline {subsubsection}{Moduł rozszerzeń wejść analogowych SIMATIC AI 8xU/I/RTD/TC ST}{28}{section*.48}%
+\contentsline {subsubsection}{Moduł rozszerzeń wyjść analogowych SIMATIC AQ 4xU/I ST}{28}{section*.49}%
+\contentsline {subsection}{\numberline {5.0.2}Standard IO-Link}{29}{subsection.5.0.2}%
+\contentsline {subsubsection}{Moduł Master IO-Link IFM AL1102 z interfejsem PROFINET}{29}{section*.52}%
+\contentsline {subsection}{\numberline {5.0.3}Zabezpieczenia}{30}{subsection.5.0.3}%
+\contentsline {chapter}{\numberline {6}Weryfikacja i walidacja na rzeczywistym układzie regulacji}{31}{chapter.6}%
+\contentsline {subsection}{\numberline {6.0.1}Aktualizacja programu}{31}{subsection.6.0.1}%
+\contentsline {subsection}{\numberline {6.0.2}Proces regulacji}{32}{subsection.6.0.2}%
+\contentsline {subsubsection}{Domyślne parametry środowiska TIA Portal}{32}{section*.60}%
+\contentsline {subsubsection}{Komentarz}{33}{section*.63}%
+\contentsline {subsubsection}{Metoda dwóch punktów}{34}{section*.64}%
+\contentsline {subsubsection}{Kryterium Cohena-Coona, \blx@tocontentsinit {0}\cite {cohen1953theoretical}}{35}{section*.66}%
+\contentsline {subsubsection}{Komentarz}{36}{section*.70}%
+\contentsline {subsubsection}{Kryterium ISE \blx@tocontentsinit {0}\cite {soni2013bf}}{37}{section*.72}%
+\contentsline {subsubsection}{Komentarz}{38}{section*.76}%
+\contentsline {chapter}{\numberline {7}Podsumowanie i wnioski}{39}{chapter.7}%
+\contentsline {subsection}{\numberline {7.0.1}Podsumowanie wyników}{39}{subsection.7.0.1}%
+\contentsline {subsection}{\numberline {7.0.2}Wnioski}{40}{subsection.7.0.2}%
+\contentsline {subsubsection}{Sterowanie jednofazowe}{40}{section*.78}%
+\contentsline {subsubsection}{Sterowanie trójfazowe}{40}{section*.79}%
+\contentsline {subsubsection}{Komentarz końcowy}{40}{section*.80}%
+\contentsline {chapter}{Bibliografia}{42}{chapter*.81}%
+\contentsline {chapter}{Spis skrótów i symboli}{45}{appendix*.82}%
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{Lista dodatkowych plików, uzupełniających tekst pracy}{47}{appendix*.83}%
+\contentsline {chapter}{Spis rysunków}{50}{appendix*.84}%
+\contentsline {chapter}{Spis tabel}{51}{appendix*.85}%

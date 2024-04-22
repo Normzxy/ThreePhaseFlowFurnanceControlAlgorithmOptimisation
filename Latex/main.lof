@@ -1,0 +1,72 @@
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Schemat blokowy układu regulacji}}{2}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Schemat blokowy regulatora PID}}{3}{figure.caption.11}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Przekaźnik SRHL1-1220 wykorzystany w instalacji \blx@tocontentsinit {0}\cite {autonics}}}{7}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Zasilanie grzałki jednofazowej \blx@tocontentsinit {0}\cite {egniazdka, intmax}}}{8}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Zasilanie grzałki trófazowej (gwiazda) \blx@tocontentsinit {0}\cite {egniazdka, intmax}}}{8}{figure.caption.18}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Sygnał PWM o współczynniku wypełnienia 40\% (T - okres PWM)}}{10}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Schemat instalacji}}{12}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Schemat instalacji w ujęciu sposobu regulacji}}{12}{figure.caption.21}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Blok funkcji \textit {ExecutePWM}}}{14}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Blok funkcji \textit {ControlPWM}}}{16}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Kontrola wypełnienia PWM przy użyciu timerów \textit {TON}}}{16}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Przykładowy przebieg czasowy timera \textit {TON} \blx@tocontentsinit {0}\cite {blogplc}}}{17}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Sterowanie jednofazowe (20\% mocy)}}{18}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Sterowanie jednofazowe (50\% mocy)}}{19}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Sterowanie jednofazowe (80\% mocy)}}{19}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Sterowanie trójfazowe (20\% mocy)}}{20}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Sterowanie trójfazowe (50\% mocy)}}{21}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Sterowanie trójfazowe (80\% mocy)}}{21}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Zaktualizowany blok \textit {ExecutePWM}}}{22}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Zmiana wartości \textit {cycleCount}}}{23}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Usprawnione sterowanie trójfazowe (20\% mocy)}}{24}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Usprawnione sterowanie trójfazowe (50\% mocy)}}{25}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Usprawnione sterowanie trójfazowe (80\% mocy)}}{25}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Schemat blokowy algorytmu}}{26}{figure.caption.44}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Sterownik obecny w instalacji \blx@tocontentsinit {0}\cite {siemens}}}{27}{figure.caption.46}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Wygląd modułów rozszerzeń \blx@tocontentsinit {0}\cite {siemens}}}{28}{figure.caption.50}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Sposób montażu dodatkowych modułów \blx@tocontentsinit {0}\cite {siemens}}}{28}{figure.caption.51}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Moduł IO-Link obecny w instalacji \blx@tocontentsinit {0}\cite {ifm}}}{29}{figure.caption.53}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Sensory IO-Link \blx@tocontentsinit {0}\cite {ifm}}}{29}{figure.caption.54}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Kontrola parametrów}}{30}{figure.caption.55}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Dezaktywacja jednego z trybów}}{30}{figure.caption.56}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Wyłączenie pieca}}{30}{figure.caption.57}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Zaktualizowany blok \textit {ExecutePWM}}}{31}{figure.caption.58}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Blok technologiczny \textit {PID\_Compact} sterujący mocą zadaną}}{32}{figure.caption.59}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Przebieg regulacji sterowania jednofazowego (nastawy domyślne)}}{33}{figure.caption.61}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Przebieg regulacji sterowania trójfazowego (nastawy domyślne)}}{33}{figure.caption.62}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Odpowiedź skokowa układu}}{34}{figure.caption.65}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Przebieg regulacji sterowania jednofazowego (kryterium Cohena-Coona)}}{35}{figure.caption.68}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Przebieg regulacji sterowania trójfazowego (kryterium Cohena-Coona)}}{36}{figure.caption.69}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Zestawienie wykresów odpowiedzi układu na skokowe zmiany mocy}}{36}{figure.caption.71}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Przebieg regulacji sterowania jednofazowego (kryterium ISE)}}{38}{figure.caption.74}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Przebieg regulacji sterowania trójfazowego (kryterium ISE)}}{38}{figure.caption.75}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {polish}{}\relax 
+\addvspace {10\p@ }
